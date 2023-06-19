@@ -1,0 +1,37 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-06-16 10:32:03.669870",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "abc",
+  "cde"
+ ],
+ "fields": [
+  {
+   "fieldname": "abc",
+   "fieldtype": "Data",
+   "label": "ABC"
+  },
+  {
+   "fieldname": "cde",
+   "fieldtype": "Data",
+   "label": "CDE"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-06-16 12:23:25.908406",
+ "modified_by": "Administrator",
+ "module": "first module",
+ "name": "Normal doctype",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

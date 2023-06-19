@@ -1,0 +1,27 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2023-06-17 16:05:58.292731",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2023-06-17 16:13:58.146740",
+ "modified_by": "Administrator",
+ "module": "first module",
+ "name": "Server side scripting Query Report",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "SELECT firstname as \"First Name\",middlename as \"Middle Name\",lastname as \"Last Name\",age as \"Age\",email as \"Email\"\nFROM `tabServer side scripting`",
+ "ref_doctype": "Server side scripting",
+ "report_name": "Server side scripting Query Report",
+ "report_type": "Query Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
